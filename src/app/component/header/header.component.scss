@@ -1,0 +1,13 @@
+
+
+@media (min-width: 576px) {
+    .navbar-expand-sm .navbar-collapse {
+        justify-content: flex-end !important;
+    }
+}
+.mr-auto, .mx-auto {
+    margin: 0px !important;
+}
+.active-route {
+    color: green !important;
+}
